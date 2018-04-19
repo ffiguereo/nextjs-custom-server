@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "README.md",
+    "pages/*",
+    ".next/*",
+    "public/*"
+  ]
+}
